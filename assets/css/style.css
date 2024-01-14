@@ -80,7 +80,7 @@ p{
     letter-spacing: 0.07rem !important;
 }
 .more-info-section{
-    background: linear-gradient(rgba(22,22,22,0.7),rgba(22,22,22,0.7)),url('/project/assets/images/pexels-pixabay-316093.jpg');
+    background: linear-gradient(rgba(22,22,22,0.7),rgba(22,22,22,0.7)),url('/assets/images/pexels-pixabay-316093.jpg');
     overflow: hidden;
     padding-bottom: 6rem;
     background-position: center;
@@ -152,4 +152,7 @@ a{
 }
 .footer-icon .bi{
     font-size: 1.2rem;
+}
+.footer-links .hed{
+    display: inline-block !important;
 }
